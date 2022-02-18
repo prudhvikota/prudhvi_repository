@@ -3,12 +3,7 @@
 using namespace std;
  
 
-class Node
-{
-    public:
-    int data;
-    Node* next;
-};
+
  
 
 void sortList(Node *head)
